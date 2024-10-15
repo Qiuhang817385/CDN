@@ -5,6 +5,4 @@ const foo = () => {
   console.log('执行了 foo')
 };
 
-const bar = () => {
-  aaa()
-};
+bar()
